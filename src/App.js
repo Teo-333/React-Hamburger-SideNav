@@ -23,7 +23,7 @@ function App() {
         <a href="/" className="logo">
           <img
             width="50"
-            src="https://daily-dev-tips.com/images/logo.png"
+            src="https://icon-library.com/images/circle-icon-png/circle-icon-png-8.jpg"
             alt="logo"
           />
         </a>
