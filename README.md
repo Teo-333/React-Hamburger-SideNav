@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# React Hamburger Side Nav
+Inspiration taken from : (https://daily-dev-tips.com/posts/animated-hamburger-side-menu/#html-structure-for-side-menu)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
